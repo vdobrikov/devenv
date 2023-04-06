@@ -19,5 +19,9 @@ https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
  - ...
 
 ## Step 4: Multi Stage Docker Build
+ - https://docs.docker.com/build/building/multi-stage/
+ - https://spring.io/guides/topicals/spring-boot-docker/
 
 ## Step 5: Devcontainers
+ - https://code.visualstudio.com/docs/devcontainers/containers
+ - https://ragunathrajasekaran.medium.com/vscode-remote-container-extension-springboot-config-optimisation-part-2-f0368957f2c2
