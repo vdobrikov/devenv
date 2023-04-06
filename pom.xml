@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vdobrikov</groupId>
-	<artifactId>buildtools</artifactId>
+	<artifactId>devenv</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>buildtools</name>
-	<description>Build tools demo project</description>
+	<name>devenv</name>
+	<description>Dev env demo project</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
